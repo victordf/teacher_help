@@ -1,0 +1,6 @@
+SOLID
+  Single responsibility principle - Cada arquivo/classe deve ter apenas uma responsabilidade
+  Open closed principle - Uma classe deve ser aberta para extensões mas n para modificações
+  Liskov substitution principle - Substituir as implementações sem afetar as regras de negócio
+  Interface agregation principle - Não criar interfaces robustas, e sim várias interfaces simples
+  Dependency inversion principle - As classes que realizam ações não devem depender de implementações e sim de interfaces
